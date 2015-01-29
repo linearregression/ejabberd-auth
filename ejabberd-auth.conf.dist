@@ -1,0 +1,12 @@
+{
+    "log_file": "./ejabberd-auth.log",
+    "redis": {
+        "addr": "127.0.0.1:6379",
+        "password": "",
+        "db": 0,
+        "pool_size": 10
+    },
+    "keys": {
+        "ceci_est_ma_public_key": "ceci_est_ma_private_key"
+    }
+}
