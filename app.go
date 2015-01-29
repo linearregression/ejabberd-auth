@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"errors"
 	"flag"
-	"github.com/go-redis/redis"
+	"gopkg.in/redis.v2"
 	"io"
 	"io/ioutil"
 	"log"
